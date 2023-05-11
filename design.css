@@ -32,6 +32,14 @@
       
   }
 
+  th{
+    width: 10%;
+  }
+
+  table{
+    border: 2px solid black;
+  }
+
   nav a{text-decoration: none;}
   nav a:link{color: #74C365}
   nav a:visited{color: #74C365;}
@@ -215,6 +223,14 @@
       padding-right: 5em;
       padding-bottom: 1em;
       
+  }
+
+  th{
+    width: 10%;
+  }
+
+  table{
+    border: 2px solid black;
   }
 
   nav a{text-decoration: none;}
